@@ -1,0 +1,10 @@
+Ground Game Trainer
+
+1|Enable|GroundGameTrainer_Enabled
+7
+1|Render Text|GroundGameTrainer_Render
+4|Height Threshold|GroundGameTrainer_HeightThreshold|0|2500
+4|Downward Force|GroundGameTrainer_DownwardForce|0|5000
+
+9|Force yourself to train your ground game (freeplay only, may affect workshop maps too)
+9|For best results, use with Dribble Trainer plugin
